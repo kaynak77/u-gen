@@ -7,4 +7,4 @@
 ## alanı dauble olarak belirleyecegiz
 ## diyer dosyalarımı okumak isterseniz aşagıdaki linkten bana veya patika sayfasına gidebilirsiniz
 [http://patika.dev] (patikaya gider)
- [http://github.com/kaynak77](benim sayfam)
+ [http://github.com/kaynak77]
